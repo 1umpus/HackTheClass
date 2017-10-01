@@ -1,4 +1,4 @@
-# CMSCXYZK: Introduction to Ethical Hacking (HackTheClass)
+# CMSC389?: Introduction to Ethical Hacking (HackTheClass)
 ![HackTheClass](HackTheClass.png)
 
 ## Course Description
@@ -6,7 +6,7 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 
 
 ## Course Details
-- **Course**: [CMSCXYZK](https://testudo.umd.edu)
+- **Course**: [CMSC389?](https://testudo.umd.edu)
 - **Prerequisites**: C- or better in CMSC216 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
