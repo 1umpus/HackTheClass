@@ -6,8 +6,7 @@ This practical, hands-on 1-credit course provides students with a foundation on
 ethical hacking. The course begins with a discussion on the ethics behind security
 research and progresses to topics that surround penetration testing, forensics,
 cryptology, and binary reverse engineering and exploitation. This course is also
-meant to introduce students to Capture-the-Flag (CTF) style cybersecurity challenges
-and encourages participation in UMD's Cybersecurity Club (UMDCSEC).
+meant to introduce students to Capture-the-Flag (CTF) style cybersecurity challenges, encourages participation in UMD's Cybersecurity Club ([UMDCSEC](https://csec.umd.edu)), and prepares for CMSC414.
 
 ## Course Details
 - **Course**: [CMSCXYZK](https://testudo.umd.edu)
