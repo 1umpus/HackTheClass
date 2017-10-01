@@ -104,3 +104,5 @@ It is very important for you to be aware of the consequences of cheating, fabric
 If you have a suggestion for improving this class, don't hesitate to tell the instructor or TAs during the semester. At the end of the semester, please don't forget to provide your feedback using the campus-wide CourseEvalUM system. Your comments will help make this class better.
 
 ###### Thanks to the writers of <a href = "https://github.com/UMD-CS-STICs/389Kfall17">this</a> syllabus for the wording of much of this document.
+
+flag-{ch3ck_y0ur_g1t_l0gs}
