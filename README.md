@@ -1,10 +1,6 @@
 # CMSCXYZK: Introduction to Ethical Hacking (HackTheClass)
 ![HackTheClass](HackTheClass.png)
 
-
-CMSCXYZK 1-credit course at UMD
-
-
 ## Course Description
 This practical, hands-on 1-credit course provides students with a foundation on
 ethical hacking. The course begins with a discussion on the ethics behind security
@@ -22,7 +18,7 @@ and encourages participation in UMD's Cybersecurity Club (UMDCSEC).
 - **Location**: CSI ABCD
 - **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Michael Reininger]
+- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus)
 - **Faculty Advisor**: [Dave Levin](http://www.cs.umd.edu/~dml/)
 - **Syllabus Last Updated**: September 30, 2017
 
