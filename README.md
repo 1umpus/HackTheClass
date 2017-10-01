@@ -17,7 +17,7 @@ meant to introduce students to Capture-the-Flag (CTF) style cybersecurity challe
 - **Location**: CSI ABCD
 - **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus)
+- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus) [William Woodruff](https://github.com/woodruffw)
 - **Faculty Advisor**: [Dave Levin](http://www.cs.umd.edu/~dml/)
 - **Syllabus Last Updated**: September 30, 2017
 
@@ -86,6 +86,8 @@ Dr. Dave Levin - dml@cs.umd.edu
 TAs:
 
 Michael Reininger - michael@csec.umiacs.umd.edu
+
+William Woodruff - william@yossarian.net
 
 ## Excused Absence and Academic Accommodations
 See the section titled <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
