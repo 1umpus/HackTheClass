@@ -73,7 +73,7 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 - Lock picking (if there is time)
 
 ## Grading
-Grades will be maintained on the CS Department grades server.
+Grades will be maintained on the CS Department <a href="https://grades.cs.umd.edu/">grades server</a>.
 
 You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
 
@@ -91,18 +91,18 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | Week | Topic | Assignment |
 | ----|----|----- |
 | 1 (TBD) | Introduction + Ethics + Linux | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). Piazza. [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
-| 2 (TBD) | Linux + OSINT + OPSEC | RTFM. [Armitage](https://www.youtube.com/watch?v=kC3wpe3t_qg). Write-up 1. |
+| 2 (TBD) | Linux + OSINT + OPSEC | [RTFM Cheat Sheets](https://github.com/droberson/rtfm).  [Armitage](https://www.youtube.com/watch?v=kC3wpe3t_qg). [Challenges.](week/2/challenges) Write-up 1. |
 | 3 (TBD) | Vulnerability scanning | Write-up 2. |
 | 4 (TBD) | Penetration testing I | Write-up 3. |
 | 5 (TBD) | Penetration testing II | Write-up 4. |
 | 6 (TBD) | Forensics I | Write-up 5. |
-| 7 (TBD) | Forensics II | Write-up 6. |
+| 7 (TBD) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
 | 8 (TBD) | Binaries I | Write-up 7. |
-| 9 (TBD) | Binaries II | Write-up 8. |
+| 9 (TBD) | Binaries II | [Challenges.](week/9/challenges) Write-up 8. |
 | 10 (TBD) | Web I | Write-up 9. |
-| 11 (TBD) | Web II | Write-up 10. |
+| 11 (TBD) | Web II | [Challenges.](week/11/challenges) Write-up 10. |
 | 12 (TBD) | Cryptology I | Write-up 11. |
-| 13 (TBD) | Cryptology II | Write-up 12. |
+| 13 (TBD) | Cryptology II | [Challenges.](week/13/challenges) Write-up 12. |
 | 14 (TBD) | CTF | Write-up 13. |
 | 15 (TBD) | Lock picking | Write-up 14. |
 
