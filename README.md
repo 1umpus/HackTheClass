@@ -1,5 +1,9 @@
 # CMSCXYZK: Introduction to Ethical Hacking (HackTheClass)
+![HackTheClass](HackTheClass.png)
+
+
 CMSCXYZK 1-credit course at UMD
+
 
 ## Course Description
 This practical, hands-on 1-credit course provides students with a foundation on
