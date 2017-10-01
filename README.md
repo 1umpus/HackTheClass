@@ -95,7 +95,19 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | ----|----|----- |
 | 1 (TBD) | Introduction + Ethics + Linux | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). Piazza. [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
 | 2 (TBD) | Linux + OSINT + OPSEC | RTFM. [Armitage](https://www.youtube.com/watch?v=kC3wpe3t_qg). Write-up 1. |
-
+| 3 (TBD) | Vulnerability scanning | Write-up 2. |
+| 4 (TBD) | Penetration testing I | Write-up 3. |
+| 5 (TBD) | Penetration testing II | Write-up 4. |
+| 6 (TBD) | Forensics I | Write-up 5. |
+| 7 (TBD) | Forensics II | Write-up 6. |
+| 8 (TBD) | Binaries I | Write-up 7. |
+| 9 (TBD) | Binaries II | Write-up 8. |
+| 10 (TBD) | Web I | Write-up 9. |
+| 11 (TBD) | Web II | Write-up 10. |
+| 12 (TBD) | Cryptology I | Write-up 11. |
+| 13 (TBD) | Cryptology II | Write-up 12. |
+| 14 (TBD) | CTF | Write-up 13. |
+| 15 (TBD) | Lock picking | Write-up 14. |
 
 ## Communicating with course staff
 Outside of class interaction between students and course staff will occur via piazza.
