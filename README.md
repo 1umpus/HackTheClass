@@ -75,6 +75,20 @@ meant to introduce students to Capture-the-Flag (CTF) style cybersecurity challe
 
 - Lock picking (if there is time)
 
+## Grading
+Grades will be maintained on the CS Department grades server.
+
+You are responsible for all material discussed in lecture and posted on the class repository, including announcements, deadlines, policies, etc.
+
+Your final course grade will be determined according to the following percentages:
+
+| Percentage | Title | Description |
+| ------------- | -----|-------- |
+| 75% | Write-ups  | Weekly individual write-ups (250-500 words) that summarize the lecture and assigned CTF challenges. |
+| 25% | Final Hack | Demonstrate mastery of all topics learned and apply knowledge to change your grade on the class's private grade server. The grade earned will be determined by levels unlocked in the grade server and will be applied to your oficial final grade. |
+
+
+
 ## Communicating with course staff
 Outside of class interaction between students and course staff will occur via piazza.
 Email should only be used for emergencies and not class related questions.
