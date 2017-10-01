@@ -17,7 +17,7 @@ meant to introduce students to Capture-the-Flag (CTF) style cybersecurity challe
 - **Location**: CSI ABCD
 - **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus) [William Woodruff](https://github.com/woodruffw)
+- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [William Woodruff](https://github.com/woodruffw)
 - **Faculty Advisor**: [Dave Levin](http://www.cs.umd.edu/~dml/)
 - **Syllabus Last Updated**: September 30, 2017
 
@@ -85,8 +85,16 @@ Your final course grade will be determined according to the following percentage
 | Percentage | Title | Description |
 | ------------- | -----|-------- |
 | 75% | Write-ups  | Weekly individual write-ups (250-500 words) that summarize the lecture and assigned CTF challenges. |
-| 25% | Final Hack | Demonstrate mastery of all topics learned and apply knowledge to change your grade on the class's private grade server. The grade earned will be determined by levels unlocked in the grade server and will be applied to your oficial final grade. |
+| 25% | Final Hack | Demonstrate mastery of all topics learned and apply knowledge to change your grade on the class's private grade server. The grade earned will be determined by levels unlocked in the grade server and will be applied to your official final grade. |
 
+Any request for reconsideration of any grading on coursework must be submitted within one week of when it is returned. No requests will be considered afterwards.
+
+## Schedule
+
+| Week | Topic | Assignment |
+| ----|----|----- |
+| 1 (TBD) | Introduction + Ethics + Linux | Download VirtualBox, Kali. Piazza. Gray Hat Hacking (Ch. 1). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [Grugq](http://grugq.github.io/). |
+| 2 (TBD) | Linux + OSINT + OPSEC | RTFM. [Armitage](https://www.youtube.com/watch?v=kC3wpe3t_qg). Write-up 1. |
 
 
 ## Communicating with course staff
@@ -108,7 +116,7 @@ See the section titled <a href="http://www.ugst.umd.edu/courserelatedpolicies.ht
 
 ## Disability Support Accommodations
 See the section titled "Accessibility" available at <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
-104
+
 
 ## Academic Integrity
 Note that academic dishonesty includes not only cheating, fabrication, and plagiarism, but also includes helping other students commit acts of academic dishonesty by allowing them to obtain copies of your work. In short, all submitted work must be your own. Cases of academic dishonesty will be pursued to the fullest extent possible as stipulated by the <a href="http://osc.umd.edu/OSC/Default.aspx">Office of Student Conduct</a>.
