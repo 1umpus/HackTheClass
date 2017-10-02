@@ -14,7 +14,7 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 - **Location**: CSI ABCD
 - **Semester**: Spring 2018
 - **Textbook**: None
-- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [William Woodruff](https://github.com/woodruffw)
+- **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [William Woodruff](https://github.com/woodruffw) and [Joshua Fleming](https://github.com/jsfleming)
 - **Faculty Advisor**: [Dave Levin](http://www.cs.umd.edu/~dml/)
 - **Syllabus Last Updated**: September 30, 2017
 
@@ -119,6 +119,9 @@ TAs:
 Michael Reininger - michael@csec.umiacs.umd.edu
 
 William Woodruff - william@yossarian.net
+
+Joshua Fleming - secretary@csec.umiacs.umd.edu
+
 
 ## Excused Absence and Academic Accommodations
 See the section titled <a href="http://www.ugst.umd.edu/courserelatedpolicies.html">Course Related Policies</a>.
