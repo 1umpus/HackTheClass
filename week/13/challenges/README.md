@@ -4,7 +4,9 @@
 ### uapv-{3phn_g0ipixdc-r1ew3g}
 
 ## RSA0:
-### [UMDCTF2017](https://github.com/0xTowel/UMDCTF-2017-Challenges/tree/master/Crypto/RSA_0)
+## p =
+## q =
+## c =
 
 ## HMU!
 ### Send an PGP encrypted message to Michael.

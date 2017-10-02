@@ -51,10 +51,7 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 - Binaries
     - Reverse engineering
     - Stack-based buffer overflow
-    - ROP & ret2libc
-    - printf
     - Shellcode
-    - Packing
 
 - Web
     - Javascript deobfuscation
@@ -62,9 +59,8 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
     - XSS & CSRF
 
 - Crypto
+    - Classic ciphers
     - Symmetric and asymmetric key
-    - Padding oracle
-    - Elliptic curve
 
 - CTF
     - Jeopardy vs Attack-Defense
