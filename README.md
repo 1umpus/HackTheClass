@@ -90,7 +90,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 2 (TBD) | Linux + OSINT + OPSEC | [RTFM Cheat Sheets](https://github.com/droberson/rtfm).  [Armitage](https://www.youtube.com/watch?v=kC3wpe3t_qg). [Challenges.](week/2/challenges) Write-up 1. |
 | 3 (TBD) | Vulnerability scanning | Write-up 2. |
 | 4 (TBD) | Penetration testing I | Write-up 3. |
-| 5 (TBD) | Penetration testing II | [Challenges.]()week/5/challenges) Write-up 4. |
+| 5 (TBD) | Penetration testing II | [Challenges.](week/5/challenges) Write-up 4. |
 | 6 (TBD) | Forensics I | Write-up 5. |
 | 7 (TBD) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
 | 8 (TBD) | Binaries I | Write-up 7. |
