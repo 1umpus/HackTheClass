@@ -81,7 +81,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 | 1 (TBD) | Introduction + Ethics + Linux | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). Piazza. [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
 | 2 (TBD) | Linux + OSINT + OPSEC | [RTFM Cheat Sheets](https://github.com/droberson/rtfm).  [Armitage](https://www.youtube.com/watch?v=kC3wpe3t_qg). [Challenges.](week/2/challenges) Write-up 1. |
 | 3 (TBD) | Vulnerability scanning | [SANS](https://www.sans.org/reading-room/whitepapers/threats/vulnerabilities-vulnerability-scanning-1195). [OpenVAS](http://www.openvas.org/). Write-up 2. |
-| 4 (TBD) | Penetration testing I | Write-up 3. |
+| 4 (TBD) | [HackThis](https://www.hackthis.co.uk/articles/a-beginners-guide-to-metasploit). [Mr. Robot Writeup](https://alexandervoidstar.wordpress.com/2017/01/08/ctf-writeup-mr-robot-1/). Penetration testing I | Write-up 3. |
 | 5 (TBD) | Penetration testing II | [Challenges.](week/5/challenges) Write-up 4. |
 | 6 (TBD) | Forensics I | Write-up 5. |
 | 7 (TBD) | Forensics II | [Challenges.](week/7/challenges) Write-up 6. |
