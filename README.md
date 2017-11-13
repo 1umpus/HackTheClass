@@ -1,4 +1,4 @@
-# CMSC389?: Introduction to Ethical Hacking (HackTheClass)
+# CMSC389R: Introduction to Ethical Hacking (HackTheClass)
 ![HackTheClass](HackTheClass.png)
 
 ## Course Description
@@ -6,12 +6,12 @@ This practical, hands-on [1-credit course](http://sticsumd.com/) provides studen
 
 
 ## Course Details
-- **Course**: [CMSC389?](https://testudo.umd.edu)
+- **Course**: [CMSC389R](https://testudo.umd.edu)
 - **Prerequisites**: C- or better in CMSC216 and CMSC250
 - **Credits**: 1
 - **Seats**: 30
 - **Lecture Time**: Fridays, 3-3:50PM
-- **Location**: CSI ABCD
+- **Location**: CSI 2118
 - **Semester**: Spring 2018
 - **Textbook**: None
 - **Course Facilitators**: [Michael Reininger](https://www.github.com/1umpus), [William Woodruff](https://github.com/woodruffw) and [Joshua Fleming](https://github.com/jsfleming)
