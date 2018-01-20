@@ -78,7 +78,7 @@ Any request for reconsideration of any grading on coursework must be submitted w
 
 | Week | Topic | Assignment |
 | ----|----|----- |
-| 1 (TBD) | Introduction + Ethics + Linux | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). Piazza. [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
+| 1 (TBD) | Introduction + Ethics + Linux | Download [VirtualBox](https://www.virtualbox.org/), [Kali](https://www.kali.org/). [Gray Hat Hacking (Ch. 1)](https://archive.org/details/GrayHatHackingTheEthicalHackersHandbook3rdEdition). [OSINT Handbook](http://www.i-intelligence.eu/wp-content/uploads/2016/11/2016_November_Open-Source-Intelligence-Tools-and-Resources-Handbook.pdf). [OPSEC](http://opsec.readthedocs.io/en/latest/). |
 | 2 (TBD) | Linux + OSINT + OPSEC | [Challenges.](week/2/challenges) Write-up 1.|
 | 3 (TBD) | Vulnerability scanning | Write-up 2. |
 | 4 (TBD) | Penetration testing I | Write-up 3. |
